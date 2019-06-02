@@ -1,0 +1,15 @@
+button {
+	background-color:$white;
+	border-radius:42px;
+	color:$taupe;
+	font-family:$raleway;
+	font-size:28px;
+	font-weight:$bold;
+	padding:20px 76px;
+	text-decoration:none;
+
+	&:hover {
+ 		background-color:$salmon;
+ 	}
+
+}

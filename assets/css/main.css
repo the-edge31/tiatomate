@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  font-family: "Raleway", sans-serif;
+  font-size: 100px;
+  font-weigth: 200;
+  color: #fff;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-size: 50px;
+  font-weigth: 400;
+  color: #fff;
+  text-align: center;
+}
+
+p {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weigth: 400;
+  color: #91918d;
+  margin-buttom: 2%;
+}
+
+header {
+  background: #fff;
+}
+
+header img {
+  padding: 10px;
+}
+
+footer {
+  background: #686963;
+  display: block;
+  padding: auto;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+
+main {
+  background: #e56353;
+  text-aling: center;
+  padding-top: 12%;
+  padding-bottom: 12%;
+}
+
+main h1 {
+  color: white;
+}
+
+.main__negocio {
+  background: #e56353;
+  text-aling: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.main__negocio h2 {
+  text-aling: center;
+  color: #fff;
+}
+
+.h1__texto {
+  font-weight: 200;
+}
+
+section {
+  background: #fff;
+}
+
+section img {
+  width: 80%;
+  display: block;
+  margin: auto;
+  padding-top: 4%;
+}
+
+.section__p {
+  heigth: 30%;
+  padding: 5%;
+  width: 70%;
+  display: block;
+  margin: auto;
+}
+
+section h2 {
+  color: #91918d;
+}
+
+.section__nosotros {
+  background: #e56353;
+  text-aling: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.section__personas {
+  padding: 5%;
+  width: 70%;
+  display: block;
+  margin: auto;
+}
+
+.section__personas img {
+  width: 70%;
+}
+
+article {
+  background: #91918d;
+}
+
+article img {
+  width: 80%;
+  display: block;
+  margin: auto;
+  padding-top: 4%;
+}
+
+.article__p {
+  heigth: 30%;
+  padding: 5%;
+  width: 70%;
+  display: block;
+  margin: auto;
+}
+
+.article__p p {
+  color: #fff;
+}
+
+button {
+  background-color: #fff;
+  -moz-border-radius: 42px;
+  -webkit-border-radius: 42px;
+  border-radius: 42px;
+  display: inline-block;
+  color: #91918d;
+  font-family: "Raleway", sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  padding: 20px 76px;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=main.css.map */
